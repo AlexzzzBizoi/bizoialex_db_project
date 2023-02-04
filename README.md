@@ -7,12 +7,12 @@ Enunt
 Crearea unei baze de date interogabile despre top 10 cele mai de succes sportive din tenis pentru deceniul trecut (2010-2019)
 
 Tabele:
-  players
-  rankings
-  grandslams
-  titles
-  olympic_results
-  medals_won
+  players,
+  rankings,
+  grandslams,
+  titles,
+  olympic_results,
+  medals_won,
   
 Diagrama model conceptual ![model_conceptual](https://user-images.githubusercontent.com/118603247/216773242-98405ae2-fcfb-43d3-91b6-ab75f8eb7e54.jpg)
 
